@@ -38,7 +38,7 @@ include 'navbar.php';
                                         echo "</tbody>";
                                         echo "</table>";
                                     } else {
-                                    echo "Você ainda não fez nenhum questionário, vamos fazer um? Clique <a href='../questionario/questionario.php'>aqui</a> para começar.";
+                                    echo "Você ainda não fez nenhuma palitagem, vamos fazer um? Clique <a href='palitagens.php'>aqui</a> para começar.";
 
                                     }
 
